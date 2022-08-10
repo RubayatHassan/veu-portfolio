@@ -176,7 +176,7 @@ export default {
 .protfolio {
     background-color: #34345238;
     padding-top: 8%;
-    padding-bottom: 15%;
+    padding-bottom: 14%;
     /* padding:15% */
 }
 
